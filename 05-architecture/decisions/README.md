@@ -22,3 +22,5 @@ cp 05-architecture/decisions/_template-adr.md \
 
 | ADR | Título | Estado |
 |-----|--------|--------|
+
+
