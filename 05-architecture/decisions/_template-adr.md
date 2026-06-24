@@ -50,3 +50,4 @@ Luego el detalle que explica el razonamiento.
 
 - Documento relacionado en este repo: `../../ruta/al/documento.md`
 - Fuente externa si aplica
+
