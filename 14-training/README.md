@@ -1,7 +1,7 @@
 # Entrenamiento
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: En progreso | Ultima actualizacion: 2026-06-22
+> Autor: Equipo del proyecto | Equipo: Documentacion
 
 ## Contenido
 
@@ -21,6 +21,9 @@ Contiene manuales y material de onboarding para usuarios, administradores y equi
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| [user-manual.md](./user-manual.md) | Manual para usuarios finales | 🔴 |
-| [admin-manual.md](./admin-manual.md) | Manual para administración y soporte | 🔴 |
-| [technical-onboarding.md](./technical-onboarding.md) | Guía de entrada para integrantes técnicos | 🔴 |
+| [user-manual.md](./user-manual.md) | Manual para usuarios finales | 🟡 |
+| [admin-manual.md](./admin-manual.md) | Manual para administración y soporte | 🟡 |
+| [technical-onboarding.md](./technical-onboarding.md) | Guía de entrada para integrantes técnicos | 🟡 |
+
+
+
