@@ -1,6 +1,6 @@
 # Preguntas abiertas
 
-> Estado: 🟡 En progreso | Última actualización: 2026-06-16
+> Estado: En progreso En progreso | Ultima actualizacion: 2026-06-22
 > Autor: Por definir | Equipo: Arquitectura / Gestión
 
 ## Flujo de resolución
@@ -38,3 +38,4 @@
 
 | # | Pregunta | Área | Resolución | ADR / Doc relacionado |
 |---|----------|------|------------|-----------------------|
+
