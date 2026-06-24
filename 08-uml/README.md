@@ -1,7 +1,7 @@
 # UML
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: En progreso | Ultima actualizacion: 2026-06-22
+> Autor: Equipo del proyecto | Equipo: Documentacion
 
 Repositorio de diagramas UML y arquitectura visual. Todo diagrama debe tener fuente editable y exportación revisable.
 
@@ -28,6 +28,9 @@ Repositorio de diagramas UML y arquitectura visual. Todo diagrama debe tener fue
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| [diagram-index.md](./diagram-index.md) | Índice de fuentes y exportaciones de diagramas | 🔴 |
-| [diagrams/source/](./diagrams/source/) | Fuentes editables de diagramas | 🔴 |
-| [diagrams/exports/](./diagrams/exports/) | Exportaciones SVG o PNG | 🔴 |
+| [diagram-index.md](./diagram-index.md) | Índice de fuentes y exportaciones de diagramas | 🟡 |
+| [diagrams/source/](./diagrams/source/) | Fuentes editables de diagramas | 🟡 |
+| [diagrams/exports/](./diagrams/exports/) | Exportaciones SVG o PNG | 🟡 |
+
+
+
