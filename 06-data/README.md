@@ -1,7 +1,7 @@
 # Datos
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: En progreso | Ultima actualizacion: 2026-06-22
+> Autor: Equipo del proyecto | Equipo: Documentacion
 
 ## Contenido
 
@@ -15,6 +15,9 @@ Documenta modelos de datos, diccionario y estrategia de migración.
 
 | Archivo | Descripción | Estado |
 |---------|-------------|--------|
-| [models.md](./models.md) | Modelos conceptuales, lógicos o físicos de datos | 🔴 |
-| [data-dictionary.md](./data-dictionary.md) | Diccionario de entidades, campos y reglas | 🔴 |
-| [migration-strategy.md](./migration-strategy.md) | Estrategia para cambios y migraciones de datos | 🔴 |
+| [models.md](./models.md) | Modelos conceptuales, lógicos o físicos de datos | 🟡 |
+| [data-dictionary.md](./data-dictionary.md) | Diccionario de entidades, campos y reglas | 🟡 |
+| [migration-strategy.md](./migration-strategy.md) | Estrategia para cambios y migraciones de datos | 🟡 |
+
+
+
